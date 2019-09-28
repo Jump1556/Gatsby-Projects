@@ -5,6 +5,7 @@ date: "2019-04-23"
 
 I just wrote new blogpost
 
+![Bird](./bird.jpeg)
 ##Topics
 
 1.Contentful
