@@ -104,3 +104,6 @@ need to install 3 plugins
 ##CONNECT TO CMS
 Plugin! 
 npm install gatsby-source-contentful
+
+##Get NICE JSON FROM contentful
+npm install @contentful/rich-text-react-renderer
