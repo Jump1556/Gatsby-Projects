@@ -96,14 +96,16 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 <!-- AUTO-GENERATED-CONTENT:END -->
 
-
-##Adding images 
+##Adding images
 npm install gatsby-plugin-sharp@2.0.32 gatsby-remark-images@3.0.10 gatsby-remark-relative-images@0.2.2
 need to install 3 plugins
 
 ##CONNECT TO CMS
-Plugin! 
+Plugin!
 npm install gatsby-source-contentful
 
 ##Get NICE JSON FROM contentful
 npm install @contentful/rich-text-react-renderer
+
+##Manage head of your tab
+npm i gatsby-plugin-react-helmet react-helmet
